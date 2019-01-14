@@ -244,6 +244,7 @@ orgs:
             - erikerlandson
             - tmckayus
             - pdmack
+            - tkatarki
             privacy: closed
           Seldon:
             description: Engineers at Seldon contributing to Kubeflow
